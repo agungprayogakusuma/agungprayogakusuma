@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agungprayogakusuma
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 Reach me on <a href="https://instagram.com/agungpk/"></a>
+- 📫 Reach me on <a href="https://instagram.com/agungpk/">Instagram</a>
 
 <!---
 agungprayogakusuma/agungprayogakusuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
